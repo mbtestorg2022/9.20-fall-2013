@@ -22,38 +22,584 @@ Additional Textbooks
 
 \[Found\] = ———. _The Foundations of Ethology_. Springer-Verlag, 1981. ISBN: 9780387816234. \[Preview with [Google Books](http://books.google.com/books?id=2Y4ptmJiGIkC&pg=PAfrontcover)\]
 
-| LEC # | TOPICS AND STUDY QUESTIONS | READINGS AND VIEWINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction: class requirements, various approaches to animal behavior and its study {{< br >}}{{< br >}} [Lecture 1 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l1_qs) {{< br >}}{{< br >}}  | Corbett, Jim. _Jungle Lore_. Oxford University Press, 1990, pp. 51–6, and 165–72. ISBN: 9780940143586. |
-| 2 |  {{< br >}}{{< br >}} Introduction to ethology; three-spined stickleback fish {{< br >}}{{< br >}} [Lecture 2 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l2_qs) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Tinb\] pp. 187–204. {{< br >}}{{< br >}} \[Scott\] Chapter 1, pp. 1-18. {{< br >}}{{< br >}} Open University, British Broadcasting Corporation, Pennsylvania State University, and Encyclopaedia Britannica Educational Corporation. 1993. "[Questions About Behavior](http://www.worldcat.org/title/questions-about-behavior/oclc/29376974?referer=di&ht=edition)". Chicago, Ill: Britannica. \[videorecording\] {{< br >}}{{< br >}} Secko, David. "[Big Cross Lands Sticklebacks in the Spotlight](http://www.the-scientist.com/?articles.view/articleNo/16006/title/-Big-Cross--Lands-Sticklebacks-in-the-Spotlight/)." _The Scientist_ 18, no. 21 (2004): 16–7. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Introduction to ethology (cont.); field studies of birds; Niko Tinbergen's questions {{< br >}}{{< br >}} [Lecture 3 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l3_qs) {{< br >}}{{< br >}}  | \[King\] Chapter 11, pp. 128–80. |
-| 4 |  {{< br >}}{{< br >}} Ethology (cont.); Konrad Lorenz' Jackdaws. {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Ethology of geese; fixed action patterns and the CNS {{< br >}}{{< br >}} [Lecture 5 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l5_qs) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Konrad Lorenz and His Geese_. "Wild, Wild World of Animals." PBS. 1976. \[Videorecording.\] {{< br >}}{{< br >}} \[Scott\] Chapter 2, pp. 19–41. {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Fixed action patterns and the CNS (cont.) {{< br >}}{{< br >}} [Lecture 6 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l6_qs) {{< br >}}{{< br >}}  | \[Scott\] Chapter 3, pp. 42–56. |
-| 7 |  {{< br >}}{{< br >}} Input and output sides of innate behavior; motivation {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The "fixed action pattern" {{< br >}}{{< br >}} [Lecture 8 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l8_qs) {{< br >}}{{< br >}}  | \[Found\] pp. 107–35. |
-| 9–11 |  {{< br >}}{{< br >}} Lorenz on fundamentals of ethology (cont.) {{< br >}}{{< br >}} [Lecture 9–10–11 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l9_10_11_qs) {{< br >}}{{< br >}}  | \[Found\] pp. 153–75–210, and 235–53. |
-| 12–13 |  {{< br >}}{{< br >}} Evolution; development & plasticity of behavior {{< br >}}{{< br >}} [Lecture 12–13 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l12_13_qs) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Scott\] Chapter 4, pp. 57–92. {{< br >}}{{< br >}} \[Tinb\] Chapter 6, pp 101–17. {{< br >}}{{< br >}}  |
-| 14–15 |  {{< br >}}{{< br >}} Communication; Meerkats of the Kalahari Desert {{< br >}}{{< br >}} [Lecture 14–15 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l14_15_qs) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Scott\] Chapter 5, pp. 93–118. {{< br >}}{{< br >}} Roberts, Monty. _The Man Who Listens to Horses: The Story of a Real-Life Horse Whisperer_. Ballantine Books, 2008, pp. 16–25, and 167–73. ISBN: 9780345510457. {{< br >}}{{< br >}} [_JOIN-UP®: Flight Distance and Turns with Monty Roberts_](http://www.montyrobertsuniversity.com/library). Solvang: Monty & Pat Roberts Inc., Accessed April 17, 2014. \[Digital video.\] {{< br >}}{{< br >}} [_Meerkats United_](http://www.imdb.com/title/tt1860282/). Directed by Marion Zunz. Color, 1986. \[Distributed by BBC Worldwide. 1999. Videotape.\] {{< br >}}{{< br >}} Thornton, Alex, and Katherine McAuliffe. "[Teaching in Wild Meerkats](http://dx.doi.org/10.1126/science.1128727)." _Science_ 313, no. 5784 (2006): 227–9. {{< br >}}{{< br >}} {{< h 3 >}}Recommended{{< /h >}} {{< br >}}{{< br >}} Video clips of meerkats taken by conservation groups in South Africa: {{< br >}}{{< br >}} [_Meerkcat Magic_](http://www.meerkatmagic.com/index.php). The Meerkat Magic Conservation Project–Meerkat Magic Moments in The Meerkat Magic Valley Reserve. Accessed April 17, 2014. {{< br >}}{{< br >}} Young, Andrew J., Anne A. Carlson, et al. "[Stress and the Suppression of Subordinate Reproduction in Cooperatively Breeding Meerkats](http://dx.doi.org/10.1073/pnas.0510038103)." _Proceedings of the National Academy of Sciences_ 103, no. 32 (2006): 12005–10. {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Foraging; anti-predation behavior {{< br >}}{{< br >}} [Lecture 16 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l16_qs) {{< br >}}{{< br >}}  | \[Scott\] Chapter 6, pp. 119–42. |
-| 17 |  {{< br >}}{{< br >}} Anti-predation behavior (cont.) {{< br >}}{{< br >}} [Lecture 17 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l17_qs) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Scott\] Chapter 7, pp. 143–65. {{< br >}}{{< br >}} G. E. Schneider, "Four hours in the life of a Syrian hamster" (unpublished manuscript, last modified Oct 10, 2013), PDF file. {{< br >}}{{< br >}} [_Great Escapes_](http://www.imdb.com/title/tt0176786/?ref_=nm_flmg_dr_3). Directed by Marty Stouffer. Color, 1993. \[Marty Stouffer Productions Ltd., 2012. DVD.\] {{< br >}}{{< br >}}  |
-| &nbsp; | [Midterm review questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_mdtm_rvw_qs) | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Mating & reproduction {{< br >}}{{< br >}} [Lecture 18 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l18_qs) {{< br >}}{{< br >}}  | \[Scott\] Chapter 8, pp. 166–96. |
-| 19 |  {{< br >}}{{< br >}} Introduction to sociobiology {{< br >}}{{< br >}} [Lecture 19 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l19_qs) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[Alcock\] Chapter 1, pp. 3–21. {{< br >}}{{< br >}} Allen, E., B. Beckwith, et al. "[Against 'Sociobiology'](http://www.nybooks.com/articles/archives/1975/nov/13/against-sociobiology/)." _New York Review of Books_, November 1975. {{< br >}}{{< br >}}  |
-| 20 |  {{< br >}}{{< br >}} Sociobiology subject matter {{< br >}}{{< br >}} [Lecture 20 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l20_qs) {{< br >}}{{< br >}}  | \[Alcock\] Chapter 2, pp. 23–40. |
-| 21 |  {{< br >}}{{< br >}} Genetic influences on social behavior {{< br >}}{{< br >}} [Lecture 21 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l21_qs) {{< br >}}{{< br >}}  | \[Alcock\] Chapter 3, pp. 41–56. |
-| 22 |  {{< br >}}{{< br >}} Video: Domestic cat {{< br >}}{{< br >}} [Lecture 22 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l22_qs) {{< br >}}{{< br >}}  | [_Cats: Caressing the Tiger_](http://www.imdb.com/title/tt0294433/). Produced by Barbara Jampel, Paula N. Kessler, Tim Kelly, and Tom Simon. Color, 54 min. 1991. \[National Geographic Video. 2010. DVD.\] |
-| 23 |  {{< br >}}{{< br >}} Domestic cat; scientific method in sociobiology {{< br >}}{{< br >}} [Lecture 23 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l23_qs) {{< br >}}{{< br >}}  | \[Alcock\] Chapters 4–5, pp. 57–91. |
-| 24 | Discoveries of sociobiology | \[Alcock\] Chapter 6, pp. 93–127. |
-| 25 | Discoveries of sociobiology (cont.) | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Critique of cultural determinism {{< br >}}{{< br >}} [Lecture 26 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l26_qs) {{< br >}}{{< br >}}  | \[Alcock\] Chapter 7, pp. 129–47. |
-| 27 |  {{< br >}}{{< br >}} Sociobiology and culture; Practical issues and sociobiology {{< br >}}{{< br >}} [Lecture 27 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l27_qs) {{< br >}}{{< br >}}  | \[Alcock\] Chapters 8–9, pp. 149–215. |
-| 28 |  {{< br >}}{{< br >}} "The triumph of sociobiology"; Konrad Lorenz on learning {{< br >}}{{< br >}} [Lecture 28 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l28_qs) {{< br >}}{{< br >}}  | \[Alcock\] Chapter 10, pp. 217–23. |
-| 29 | Konrad Lorenz on learning (cont.) | \[Found\] Part 3. |
-| 30 |  {{< br >}}{{< br >}} Konrad Lorenz on learning (cont.); Video: The Great Apes {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dreyfus, Claudia. "[50 Years of Chimpanzees](http://www.nytimes.com/2010/11/16/science/16conversation.html?_r=0&adxnnl=1&adxnnlx=1397826229-Vu4tQeu+mUJ5yb3kPo7zrw)," _New York Times_, November 15, 2010. {{< br >}}{{< br >}} Seyfarth, Robert M., and Dorothy L. Cheney. "[The Structure of Social Knowledge in Monkeys](http://psycnet.apa.org/psycinfo/2002-17539-046)." (PDF) _Animal Social Complexity: Intelligence, Culture, and Individualized Societies_ (2003): 207–29. {{< br >}}{{< br >}} Russon, Anne E. "[The Nature and Evolution of Intelligence in Orangutans (Pongo pygmaeus)](http://dx.doi.org/10.1007/BF02557571)." _Primates_ 39, no. 4 (1998): 485–503. {{< br >}}{{< br >}}  |
-| 31 | Video: The Great Apes (cont.) | &nbsp; |
-| &nbsp; |  {{< br >}}{{< br >}} Written reports due & Extra credit homework due {{< br >}}{{< br >}}  |
-| 32–35 | Student report presentations |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS AND STUDY QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+READINGS AND VIEWINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction: class requirements, various approaches to animal behavior and its study
+
+[Lecture 1 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l1_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Corbett, Jim. _Jungle Lore_. Oxford University Press, 1990, pp. 51–6, and 165–72. ISBN: 9780940143586.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to ethology; three-spined stickleback fish
+
+[Lecture 2 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l2_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Tinb\] pp. 187–204.
+
+\[Scott\] Chapter 1, pp. 1-18.
+
+Open University, British Broadcasting Corporation, Pennsylvania State University, and Encyclopaedia Britannica Educational Corporation. 1993. "[Questions About Behavior](http://www.worldcat.org/title/questions-about-behavior/oclc/29376974?referer=di&ht=edition)". Chicago, Ill: Britannica. \[videorecording\]
+
+Secko, David. "[Big Cross Lands Sticklebacks in the Spotlight](http://www.the-scientist.com/?articles.view/articleNo/16006/title/-Big-Cross--Lands-Sticklebacks-in-the-Spotlight/)." _The Scientist_ 18, no. 21 (2004): 16–7.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to ethology (cont.); field studies of birds; Niko Tinbergen's questions
+
+[Lecture 3 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l3_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[King\] Chapter 11, pp. 128–80.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethology (cont.); Konrad Lorenz' Jackdaws.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ethology of geese; fixed action patterns and the CNS
+
+[Lecture 5 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l5_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Konrad Lorenz and His Geese_. "Wild, Wild World of Animals." PBS. 1976. \[Videorecording.\]
+
+\[Scott\] Chapter 2, pp. 19–41.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fixed action patterns and the CNS (cont.)
+
+[Lecture 6 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l6_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Scott\] Chapter 3, pp. 42–56.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Input and output sides of innate behavior; motivation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The "fixed action pattern"
+
+[Lecture 8 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l8_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Found\] pp. 107–35.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lorenz on fundamentals of ethology (cont.)
+
+[Lecture 9–10–11 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l9_10_11_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Found\] pp. 153–75–210, and 235–53.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Evolution; development & plasticity of behavior
+
+[Lecture 12–13 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l12_13_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Scott\] Chapter 4, pp. 57–92.
+
+\[Tinb\] Chapter 6, pp 101–17.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Communication; Meerkats of the Kalahari Desert
+
+[Lecture 14–15 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l14_15_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Scott\] Chapter 5, pp. 93–118.
+
+Roberts, Monty. _The Man Who Listens to Horses: The Story of a Real-Life Horse Whisperer_. Ballantine Books, 2008, pp. 16–25, and 167–73. ISBN: 9780345510457.
+
+[_JOIN-UP®: Flight Distance and Turns with Monty Roberts_](http://www.montyrobertsuniversity.com/library). Solvang: Monty & Pat Roberts Inc., Accessed April 17, 2014. \[Digital video.\]
+
+[_Meerkats United_](http://www.imdb.com/title/tt1860282/). Directed by Marion Zunz. Color, 1986. \[Distributed by BBC Worldwide. 1999. Videotape.\]
+
+Thornton, Alex, and Katherine McAuliffe. "[Teaching in Wild Meerkats](http://dx.doi.org/10.1126/science.1128727)." _Science_ 313, no. 5784 (2006): 227–9.
+
+### Recommended
+
+Video clips of meerkats taken by conservation groups in South Africa:
+
+[_Meerkcat Magic_](http://www.meerkatmagic.com/index.php). The Meerkat Magic Conservation Project–Meerkat Magic Moments in The Meerkat Magic Valley Reserve. Accessed April 17, 2014.
+
+Young, Andrew J., Anne A. Carlson, et al. "[Stress and the Suppression of Subordinate Reproduction in Cooperatively Breeding Meerkats](http://dx.doi.org/10.1073/pnas.0510038103)." _Proceedings of the National Academy of Sciences_ 103, no. 32 (2006): 12005–10.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Foraging; anti-predation behavior
+
+[Lecture 16 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l16_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Scott\] Chapter 6, pp. 119–42.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Anti-predation behavior (cont.)
+
+[Lecture 17 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l17_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Scott\] Chapter 7, pp. 143–65.
+
+G. E. Schneider, "Four hours in the life of a Syrian hamster" (unpublished manuscript, last modified Oct 10, 2013), PDF file.
+
+[_Great Escapes_](http://www.imdb.com/title/tt0176786/?ref_=nm_flmg_dr_3). Directed by Marty Stouffer. Color, 1993. \[Marty Stouffer Productions Ltd., 2012. DVD.\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Midterm review questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_mdtm_rvw_qs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mating & reproduction
+
+[Lecture 18 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l18_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Scott\] Chapter 8, pp. 166–96.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to sociobiology
+
+[Lecture 19 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l19_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Alcock\] Chapter 1, pp. 3–21.
+
+Allen, E., B. Beckwith, et al. "[Against 'Sociobiology'](http://www.nybooks.com/articles/archives/1975/nov/13/against-sociobiology/)." _New York Review of Books_, November 1975.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sociobiology subject matter
+
+[Lecture 20 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l20_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapter 2, pp. 23–40.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Genetic influences on social behavior
+
+[Lecture 21 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l21_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapter 3, pp. 41–56.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video: Domestic cat
+
+[Lecture 22 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l22_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[_Cats: Caressing the Tiger_](http://www.imdb.com/title/tt0294433/). Produced by Barbara Jampel, Paula N. Kessler, Tim Kelly, and Tom Simon. Color, 54 min. 1991. \[National Geographic Video. 2010. DVD.\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Domestic cat; scientific method in sociobiology
+
+[Lecture 23 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l23_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapters 4–5, pp. 57–91.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discoveries of sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapter 6, pp. 93–127.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Discoveries of sociobiology (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Critique of cultural determinism
+
+[Lecture 26 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l26_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapter 7, pp. 129–47.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sociobiology and culture; Practical issues and sociobiology
+
+[Lecture 27 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l27_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapters 8–9, pp. 149–215.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"The triumph of sociobiology"; Konrad Lorenz on learning
+
+[Lecture 28 Study questions (PDF)]({{< baseurl >}}/resources/mit9_20f13_l28_qs)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Alcock\] Chapter 10, pp. 217–23.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Konrad Lorenz on learning (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Found\] Part 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Konrad Lorenz on learning (cont.); Video: The Great Apes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dreyfus, Claudia. "[50 Years of Chimpanzees](http://www.nytimes.com/2010/11/16/science/16conversation.html?_r=0&adxnnl=1&adxnnlx=1397826229-Vu4tQeu+mUJ5yb3kPo7zrw)," _New York Times_, November 15, 2010.
+
+Seyfarth, Robert M., and Dorothy L. Cheney. "[The Structure of Social Knowledge in Monkeys](http://psycnet.apa.org/psycinfo/2002-17539-046)." (PDF) _Animal Social Complexity: Intelligence, Culture, and Individualized Societies_ (2003): 207–29.
+
+Russon, Anne E. "[The Nature and Evolution of Intelligence in Orangutans (Pongo pygmaeus)](http://dx.doi.org/10.1007/BF02557571)." _Primates_ 39, no. 4 (1998): 485–503.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Video: The Great Apes (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Written reports due & Extra credit homework due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32–35
+{{< tdclose >}}
+{{< tdopen >}}
+Student report presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Recommended Readings
 -------------------------------

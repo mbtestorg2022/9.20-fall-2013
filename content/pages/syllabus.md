@@ -43,57 +43,542 @@ Requirements
 Grading of Course
 -----------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quizzes & Homeworks | 35 |
-| Presentation | 20 |
-| Midterm Exam | 15 |
-| Final Exam | 30 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes & Homeworks
+{{< tdclose >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Grading_of_Final_Project" >}}Grading of Final Project Presentation{{< /anchor >}}
 ---------------------------------------------------------------------------------------------
 
-| CRITERIAS | DESCRIPTIONS | % OF ASSIGNMENT GRADES |
-| --- | --- | --- |
-| Relevance to class | Cite specific ideas or principles of ethology and sociobiology | 20 |
-| Sources | Search effort, reading effort, adequacy for the report and accuracy of understanding | 20 |
-| Organization & clarity of descriptions | Organization of ideas with helpful use of headings; clarity of descriptions | 20 |
-| Examples & Interest | Examples used to explain the topic clearly and effectively; interest shown by student and generated in audience | 20 |
-| Critique of existing studies and future directions | Critique of studies read and future directions (your ideas about relevant work you think should be done if you were working in this field). | 20 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CRITERIAS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+{{< thopen >}}
+% OF ASSIGNMENT GRADES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Relevance to class
+{{< tdclose >}}
+{{< tdopen >}}
+Cite specific ideas or principles of ethology and sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sources
+{{< tdclose >}}
+{{< tdopen >}}
+Search effort, reading effort, adequacy for the report and accuracy of understanding
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Organization & clarity of descriptions
+{{< tdclose >}}
+{{< tdopen >}}
+Organization of ideas with helpful use of headings; clarity of descriptions
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Examples & Interest
+{{< tdclose >}}
+{{< tdopen >}}
+Examples used to explain the topic clearly and effectively; interest shown by student and generated in audience
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Critique of existing studies and future directions
+{{< tdclose >}}
+{{< tdopen >}}
+Critique of studies read and future directions (your ideas about relevant work you think should be done if you were working in this field).
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Calendar
 ---------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: class requirements, various approaches to animal behavior and its study | Initial assignments for student reports |
-| 2 | Introduction to ethology; three-spined stickleback fish | &nbsp; |
-| 3 | Introduction to ethology (cont.); field studies of birds; Niko Tinbergen's questions |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Quiz {{< br >}}{{< br >}}  |
-| 4 | Ethology (cont.); Konrad Lorenz' Jackdaws | &nbsp; |
-| 5 | Ethology of geese; fixed action patterns and the CNS | &nbsp; |
-| 6 | Fixed action patterns and the CNS (cont.) | &nbsp; |
-| 7 | Input and output sides of innate behavior; motivation | &nbsp; |
-| 8 | Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The "fixed action pattern" | &nbsp; |
-| 9-11 | Lorenz on fundamentals of ethology (cont.) | Homework 2 due in Lecture 9 |
-| 12-13 | Evolution; development & plasticity of behavior | &nbsp; |
-| 14-15 | Communication; Meerkats of the Kalahari Desert | Homework 3 due in Lecture 14 |
-| 16 | Foraging; anti-predation behavior | Homework 4 due |
-| 17 | Anti-predation behavior (cont.) | &nbsp; |
-| &nbsp; | Midterm Review | &nbsp; |
-| &nbsp; | Midterm exam |
-| 18 | Mating & Reproduction | &nbsp; |
-| 19 | Introduction to Sociobiology | &nbsp; |
-| 20 | Sociobiology subject matter | &nbsp; |
-| 21 | Genetic influences on social behavior | &nbsp; |
-| 22 | Videos: Domestic cat | &nbsp; |
-| 23 | Domestic cat; scientific method in sociobiology | &nbsp; |
-| 24 | Discoveries of sociobiology | Homework 5 due |
-| 25 | Discoveries of sociobiology (cont.) | &nbsp; |
-| 26 | Critique of cultural determinism | &nbsp; |
-| 27 | Sociobiology and culture; Practical issues and sociobiology | Homework 6 due |
-| 28 | "The triumph of sociobiology"; Konrad Lorenz on learning | &nbsp; |
-| 29 | Konrad Lorenz on learning (cont.) | Homework 7 due |
-| 30 | Konrad Lorenz on learning (cont.); Video: The Great Apes | &nbsp; |
-| 31 | Video: The Great Apes (cont.) | &nbsp; |
-| &nbsp; |  {{< br >}}{{< br >}} Written reports due {{< br >}}{{< br >}} Extra credit homework due {{< br >}}{{< br >}}  |
-| 32-35 | Student report presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: class requirements, various approaches to animal behavior and its study
+{{< tdclose >}}
+{{< tdopen >}}
+Initial assignments for student reports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to ethology; three-spined stickleback fish
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to ethology (cont.); field studies of birds; Niko Tinbergen's questions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Quiz
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ethology (cont.); Konrad Lorenz' Jackdaws
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ethology of geese; fixed action patterns and the CNS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Fixed action patterns and the CNS (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Input and output sides of innate behavior; motivation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Innate behavior and motivation (cont.); Lorenz on fundamentals of ethology: The "fixed action pattern"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Lorenz on fundamentals of ethology (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due in Lecture 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Evolution; development & plasticity of behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Communication; Meerkats of the Kalahari Desert
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due in Lecture 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Foraging; anti-predation behavior
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Anti-predation behavior (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Mating & Reproduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Sociobiology subject matter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic influences on social behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Videos: Domestic cat
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Domestic cat; scientific method in sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discoveries of sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Discoveries of sociobiology (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Critique of cultural determinism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Sociobiology and culture; Practical issues and sociobiology
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+"The triumph of sociobiology"; Konrad Lorenz on learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Konrad Lorenz on learning (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Konrad Lorenz on learning (cont.); Video: The Great Apes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Video: The Great Apes (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Written reports due
+
+Extra credit homework due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32-35
+{{< tdclose >}}
+{{< tdopen >}}
+Student report presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
